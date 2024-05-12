@@ -103,10 +103,10 @@ export const Home = () => {
         sectionRef={projectOne}
         visible={visibleSections.includes(projectOne.current)}
         index={1}
-        title="Designing the future of education"
-        description="Designing a platform to help educators build better online courseware"
+        title="Exploring the Madness of the Metaverse"
+        description="Immerse yourself in a virtual world where dreams become reality, experiencing the true essence of the metaverse through VR exploration."
         buttonText="View project"
-        buttonLink="/projects/smart-sparrow"
+        buttonLink="https://m-eta-verse.vercel.app/"
         model={{
           type: 'laptop',
           alt: 'Smart Sparrow lesson builder',
@@ -124,10 +124,10 @@ export const Home = () => {
         sectionRef={projectTwo}
         visible={visibleSections.includes(projectTwo.current)}
         index={2}
-        title="Video game progress tracking"
-        description="Design and development for a video game tracking app built in React Native"
+        title="Discover Nike's Summer Collection"
+        description="Explore the latest Nike shoe arrivals offering stylish designs, exceptional comfort, and innovative features to elevate your active lifestyle"
         buttonText="View website"
-        buttonLink="https://gamestack.hamishw.com"
+        buttonLink="https://nike-the-shoes-store-eis4.vercel.app/"
         model={{
           type: 'phone',
           alt: 'App login screen',
@@ -148,10 +148,10 @@ export const Home = () => {
         sectionRef={projectThree}
         visible={visibleSections.includes(projectThree.current)}
         index={3}
-        title="Biomedical image collaboration"
-        description="Increasing the amount of collaboration in Slice, an app for biomedical imaging"
+        title="The Power of AI Text Summarization: Enhancing Information Accessibility"
+        description="Discover how AI-driven text summarization is transforming information consumption, offering efficient and accessible content summarization for improved productivity and comprehension"
         buttonText="View project"
-        buttonLink="/projects/slice"
+        buttonLink="https://exslym.github.io/AI-Summarizer/"
         model={{
           type: 'laptop',
           alt: 'Annotating a biomedical image in the Slice app',

@@ -5,7 +5,7 @@ addons.setConfig({
   theme: {
     ...themes.dark,
     brandImage: './icon.svg',
-    brandTitle: 'Hamish Williams Components',
-    brandUrl: 'https://hamishw.com',
+    brandTitle: 'Tanya Kumari Components',
+    brandUrl: 'https://Tanyaw.com',
   },
 });
